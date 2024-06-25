@@ -1,0 +1,1 @@
+site-go-green.netlify.app, pub-8783640532957105, DIRECT, 8783640532957105
