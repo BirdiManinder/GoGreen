@@ -1,6 +1,7 @@
 import { buttons, home } from "../constants";
 
 import { Button, CompanyName } from "../components";
+import { Adsense } from "@ctrl/react-adsense";
 
 export function Home() {
   return (
@@ -12,6 +13,7 @@ export function Home() {
       </h1>
       <p className="home-description">{home.description}</p>
       {/* <Button text={buttons.main} /> */}
+      <Adsense client='ca-pub-8783640532957105' slot='3460995955'/>
     </div>
   );
 }
