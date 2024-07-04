@@ -13,6 +13,7 @@ interface Props {
   description: string;
   user?: string;
   amountOfComments?: number;
+  url?: string;
 }
 
 export function Post({
@@ -46,7 +47,7 @@ export function Post({
         <p className="post-description">{description}</p>
       </div>
 
-      <Button text={buttons.more} className="post-button" />
+      <Button text={buttons.more} className="post-button" type="button" />
     </li>
   );
 }

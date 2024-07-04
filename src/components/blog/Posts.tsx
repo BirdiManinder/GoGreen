@@ -21,6 +21,7 @@ export function Posts() {
           amountOfComments={post.commentsNumber || 1}
           src={images[index]}
           alt={getAltNameFromPath(images[index]) || rectangle}
+          url={post.url}
         />
       ))}
     </ul>

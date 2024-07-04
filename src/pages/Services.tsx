@@ -2,7 +2,7 @@ import { Banner, FirstSectionTextBlock, Subtitle, Title } from "../components";
 import { banner, services, svg } from "../constants";
 import { getAltNameFromPath } from "../helpers";
 
-import img from "../assets/jpg/team/olivia-slive.jpg";
+import img from "../assets/jpg/team/avtar.png";
 
 import img2 from "../assets/svg/services/eco-system.svg";
 import img3 from "../assets/svg/services/protecting.svg";

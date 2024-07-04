@@ -5,8 +5,9 @@ interface Props {
 }
 
 export function Button({ text, type = "button", className = "" }: Props) {
+  
   return (
-    <button type={type} className={`button ${className}`}>
+    <button type={type} className={`button ${className}`} >
       {text}
     </button>
   );

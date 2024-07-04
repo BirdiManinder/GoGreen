@@ -5,7 +5,7 @@
   &-content {
     @include flex(column, center, flex-start);
     gap: 24px;
-    padding-top: 20px;
+    padding-top: 100px;
   }
 
   &-title {
@@ -20,10 +20,15 @@
     &__font-size {
       font-size: var(--font-size-xl) !important;
     }
-  }
+  }s
 
   &-description {
     max-width: 320px;
+  }
+
+  &-part {
+    max-width: 720px;
+    display: flex;
   }
 
   button {

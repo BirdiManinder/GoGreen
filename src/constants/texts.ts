@@ -40,9 +40,9 @@ export const banner = {
   },
   person: {
     Olivia: {
-      name: "Olivia Slive",
+      name: "Maninder Singh",
       about:
-        "Hi my name is Olivia Slive I am a member here and I have been participating in this activity for about a year and well it not only restores the world well but is also very fun in every process that goes through. Come join GoGreen with us!",
+        "Hi my name is Maninder Singh I am a member here and I have been participating in this activity for about a year and well it not only restores the world well but is also very fun in every process that goes through. Come join GoGreen with us!",
     },
   },
 };
@@ -114,23 +114,26 @@ export const blog = {
     {
       title: "Together we can definitely change it",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "Absolutely! Collective action is powerful and can lead to significant environmental change. Here are some collaborative ways to make a positive impact on the environment:- Community Engagement, Advocacy and Policy Change, Sustainable Business Practices, Collaborative Projects, Education and Awareness, Personal and Collective Action, Building Networks, Innovation and Technology By working together, sharing resources, and supporting each other's efforts, we can create a more sustainable and environmentally friendly world. Every action, no matter how small, contributes to a larger collective impact.",
       person: "Mira",
       commentsNumber: 3,
+      url: "https://reallifeoptions.org/go-green-in-10-simple-steps/"
     },
     {
       title: "Together we can for forest",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "Forests are the lifeblood of our planet, providing oxygen, shelter, and sustenance for countless species, including humans. They regulate our climate, purify our air, and support biodiversity in ways that are both seen and unseen. However, these vital ecosystems face unprecedented threats from deforestation, climate change, and unsustainable practices. Now, more than ever, it's crucial that we come together to protect and restore our forests.Together, we can make a difference. ",
       person: "Alice",
       commentsNumber: 1,
+      url: "https://treefoundation.org/10-things-you-can-do-to-save-forests/"
     },
     {
       title: "Natural`s World",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "The natural world is an intricate tapestry of ecosystems, each teeming with life and interconnected in ways that sustain the delicate balance of our planet. From the towering forests and expansive oceans to the arid deserts and vibrant wetlands, every environment contributes uniquely to the richness of Earth’s biodiversity. This vast diversity of life not only captivates the human spirit with its beauty and complexity but also provides essential services that support all forms of life.",
       person: "Chris",
       commentsNumber: 7,
+      url: "https://en.wikipedia.org/wiki/Natural_world"
     },
   ],
   flickPhotos: { title: "Flick Photos" },
